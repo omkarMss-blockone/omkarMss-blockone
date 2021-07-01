@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkarMss-blockone
+- 👋 Hi, I’m Omkar Mindhe
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning nextJs
 - 💞️ I’m looking to collaborate on interesting projects
